@@ -1,6 +1,6 @@
 \# GFC Financial Chatbot — RAG over 10-K Data
 
-<img width="1513" height="951" alt="image" src="https://github.com/user-attachments/assets/236a63fd-e864-46b1-8d10-342229e114ee" />
+<img width="424" height="289" alt="image" src="https://github.com/user-attachments/assets/c0fab497-7a90-4e88-95af-a4acaa056e79" />
 
 
 A retrieval-augmented generation (RAG) chatbot that answers natural-language
