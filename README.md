@@ -69,4 +69,4 @@ computing year-over-year changes and comparing companies.
 \## Running it locally
 
 1\. Install \[Ollama](https://ollama.com) and pull the model:
-
+<img width="1513" height="951" alt="image" src="https://github.com/user-attachments/assets/236a63fd-e864-46b1-8d10-342229e114ee" />
